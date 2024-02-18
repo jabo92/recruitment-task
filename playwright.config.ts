@@ -1,5 +1,5 @@
 import { defineConfig, devices } from '@playwright/test';
-import {baseUrl} from "./src/config/urlConfig";
+import {baseUrl} from "./src/constants/urls";
 
 /**
  * Read environment variables from file.
