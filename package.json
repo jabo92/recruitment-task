@@ -1,0 +1,16 @@
+{
+  "name": "recruitment-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright tests"
+  },
+  "keywords": [],
+  "author": "Adam Jablonski",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.2",
+    "@types/node": "^20.11.19"
+  }
+}
